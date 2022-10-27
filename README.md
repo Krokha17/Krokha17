@@ -443,3 +443,4 @@ SWOT-анализ
 
 Однако, стоит заметить, что у пекарни много возможностей для роста, что позволит преодолеть неблагоприятные условия рынка.
 ![практика 2 курс +](https://user-images.githubusercontent.com/105660089/198203359-0c725c81-bf13-4f15-a3a3-f43e28627afc.png)
+![image](https://user-images.githubusercontent.com/105660089/198207457-5aba649d-3e51-4af2-9f40-ea4dc62b3b9f.png)
